@@ -43,5 +43,7 @@ SwitchをRCMモードにして、TegraRCMGUIを使用し、Hekateペイロード
 | [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu) | オーバーレイメニュー |
 
 ## クレジット
+* Team Atmosphere-NX
 * Team AtlasNX
+* Nyx
 * All the awesome homebrew developers
