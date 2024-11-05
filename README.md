@@ -35,6 +35,7 @@ SwitchをRCMモードにして、[TegraRCMGUI](https://github.com/eliboa/TegraRc
 | [EdiZon-Overlay](https://github.com/proferabg/EdiZon-Overlay/releases) | Edizonオーバーレイメニュー |
 | [FTPD](https://github.com/mtheall/ftpd/releases) | 3DS/Switch/Linux用のFTPサーバー |
 | [Goldleaf](https://github.com/XorTroll/Goldleaf/releases) | 多機能マルチマネージャー |
+| [Homebrew App Store](https://gitlab.com/4TU/hb-appstore) | 自作ソフトApp Store |
 | [JKSV](https://github.com/J-D-K/JKSV/releases) | JK'sセーブマネージャーSwitch版 |
 | [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader/releases) | オーバーレイメニューを動作するホスト |
 | [NX-Shell](https://github.com/joel16/NX-Shell/releases) | ファイルマネージャー |
