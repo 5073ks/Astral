@@ -10,7 +10,7 @@ The new All-in-One CFW package for the Nintendo Switch.
 
 **何か問題があればただちに削除します。**
 
-
+## このプロジェクトは現在進行中です
 
 ## 特徴
 - HB Appstore同梱
