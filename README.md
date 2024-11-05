@@ -13,7 +13,7 @@ The new All-in-One CFW package for the Nintendo Switch
 
 
 ## 特徴
-- Switch本体で、自作ソフトのダウンロードが可能
+- Switch本体のみで自作ソフトのダウンロードが可能
 - SigPatches同梱
 - FTPDでSDカードの通信が可能
 - ファイルマネージャー同梱
