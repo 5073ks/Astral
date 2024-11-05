@@ -2,17 +2,11 @@
 
 The new All-in-One CFW package for the Nintendo Switch
 
-[DeepSea](https://github.com/Team-Neptune/DeepSea)の機能追加および改良版
-
 ## What's Astral?
--
--
--
--
--
--
--
--
+[DeepSea](https://github.com/Team-Neptune/DeepSea)を使いやすいように、いくつかの改良を重ねたオールインワンCFWパッケージです。
+
+基本的には、[Atwmosphere](https://github.com/atmosphere-nx/atmosphere/releases)を使用することを推奨します。
+
 
 ## 使い方
 このガイドを参照してください：https://switch.homebrew.guide
