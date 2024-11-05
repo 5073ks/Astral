@@ -7,7 +7,13 @@ The new All-in-One CFW package for the Nintendo Switch
 
 基本的には、[Atmosphère](https://github.com/atmosphere-nx/atmosphere/releases)を使用することを推奨します。
 
-オンラインでも使用可能にするために、DeepSeaからいくつかの機能を削除しています。
+オンラインでも安全に使用可能にするために、DeepSeaからいくつかの機能を削除しています。
+
+## 特徴
+-Switch本体で、自作ソフトのダウンロードが可能
+-SigPatches同梱
+-FTPDでSDカードの通信が可能
+-ファイルマネージャー同梱
 
 
 ## 使い方
