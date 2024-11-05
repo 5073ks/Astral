@@ -19,7 +19,7 @@ Nintendo Switch用の最高の新しいオールインワンCFWパッケージ
 SwitchをRCMモードにして、TegraRCMGUIを使用し、Hekateペイロードを送信します。
 
 ## 同梱物
-| Folder/File              | Description                                                           |
+| ソフト名 | 説明 |
 | ------------------------ | --------------------------------------------------------------------- |
 | [AIO-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater/releases) | CFW、FW、およびチートコードをダウンロードおよび更新 |
 | [DBI](https://github.com/rashevskyv/dbi/releases) | 多機能マルチツール |
