@@ -46,5 +46,6 @@ SwitchをRCMモードにして、TegraRCMGUIを使用し、Hekateペイロード
 ## クレジット
 * Team Atmosphere-NX
 * Team AtlasNX
-* Nyx
+* Team Neptune
+* CTCaer
 * All the awesome homebrew developers
