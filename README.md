@@ -18,7 +18,7 @@ The new All-in-One CFW package for the Nintendo Switch
 - FTPDでSDカードの通信が可能
 - ファイルマネージャー同梱
 - hbm用のカラー設定集同梱
-- 60fps録画
+- デフォルトで60fps録画
 
 ## 使い方
 このガイドを参照してください：https://switch.homebrew.guide
