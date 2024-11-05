@@ -2,7 +2,7 @@
 
 The new All-in-One CFW package for the Nintendo Switch
 
-DeepSea機能追加および改良版
+[DeepSea](https://github.com/Team-Neptune/DeepSea)の機能追加および改良版
 
 ## 特徴
 -
