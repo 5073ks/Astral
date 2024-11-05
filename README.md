@@ -24,7 +24,7 @@ The new All-in-One CFW package for the Nintendo Switch.
 このガイドを参照してください：https://switch.homebrew.guide
 
 最新の[Releases](https://github.com/5073ks/Astral/releases)をダウンロードし、SDカードに入れてください。<br />
-SwitchをRCMモードにして、[TegraRCMGUI](https://github.com/eliboa/TegraRcmGUI)を使用し、Hekateペイロードを送信します。
+SwitchをRCMモードにして、[TegraRCMGUI](https://github.com/eliboa/TegraRcmGUI)を使用し、[Hekate](https://github.com/CTCaer/hekate)ペイロードを送信します。
 
 ## 同梱物
 | ソフト名 | 説明 |
