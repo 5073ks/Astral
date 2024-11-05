@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/dfa221a9-7162-4981-bb81-1721bc9292cb)
 
-The new All-in-One CFW package for the Nintendo Switch
+The new All-in-One CFW package for the Nintendo Switch.
 
 ## Astralとは？
 [DeepSea](https://github.com/Team-Neptune/DeepSea)を個人的に使いやすいように、いくつかの改良を重ねたオールインワンCFWパッケージです。<br />
