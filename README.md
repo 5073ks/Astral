@@ -17,7 +17,7 @@ The new All-in-One CFW package for the Nintendo Switch
 - SigPatches同梱
 - FTPDでSDカードの通信が可能
 - ファイルマネージャー同梱
-
+- 60fps録画
 
 ## 使い方
 このガイドを参照してください：https://switch.homebrew.guide
