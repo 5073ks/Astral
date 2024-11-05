@@ -8,7 +8,7 @@ The new All-in-One CFW package for the Nintendo Switch
 
 オンラインでも安全に使用可能にするために、DeepSeaからいくつかの機能を削除しています。
 
-**何か問題があればただちに削除します**
+**何か問題があればただちに削除します。**
 
 
 
