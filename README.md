@@ -1,4 +1,14 @@
 # Astral
 Nintendo Switch用の最高の新しいオールインワンCFWパッケージ
 
-## Features
+## 特徴
+-
+-
+-
+-
+-
+-
+-
+-
+
+
