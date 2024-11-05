@@ -29,7 +29,7 @@ SwitchをRCMモードにして、TegraRCMGUIを使用し、Hekateペイロード
 ## 同梱物
 | ソフト名 | 説明 |
 | ------------------------ | --------------------------------------------------------------------- |
-| [AIO-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater/releases) | CFW、FW、およびチートコードをダウンロードおよび更新 |
+| [AIO-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater/releases) | CFW・FW・およびチートコードをダウンロードおよび更新 |
 | [DBI](https://github.com/rashevskyv/dbi/releases) | 多機能マルチツール |
 | [Edizon](https://github.com/WerWolv/EdiZon/releases) | セーブファイルダンパー・インジェクター・およびオンコンソールエディター |
 | [EdiZon-Overlay](https://github.com/proferabg/EdiZon-Overlay/releases) | Edizonオーバーレイメニュー |
