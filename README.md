@@ -34,3 +34,7 @@ SwitchをRCMモードにして、TegraRCMGUIを使用し、Hekateペイロード
 | [switch-90dns-setter](https://github.com/suchmememanyskill/switch-90dns-setter/releases) | 90DNSを自動で導入 |
 | [Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester/releases) | 90DNSが作動しているかを確認 |
 | [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu) | オーバーレイメニュー |
+
+##クレジット
+* Team AtlasNX
+* All the awesome homebrew developers
