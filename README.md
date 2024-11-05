@@ -1,6 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/650f605f-346d-4a90-b33b-c28b987e83ce)
 
 The new All-in-One CFW package for the Nintendo Switch
+
 DeepSea機能追加および改良版
 
 ## 特徴
