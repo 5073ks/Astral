@@ -1,4 +1,3 @@
-## このプロジェクトは現在進行中です
 ![banner](https://github.com/user-attachments/assets/dfa221a9-7162-4981-bb81-1721bc9292cb)
 
 The new All-in-One CFW package for the Nintendo Switch.
