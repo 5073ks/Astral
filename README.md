@@ -17,7 +17,7 @@ The new All-in-One CFW package for the Nintendo Switch
 ## 使い方
 このガイドを参照してください：https://switch.homebrew.guide
 
-最新のReleasesをダウンロードし、SDカードに入れてください<br />
+最新のReleasesをダウンロードし、SDカードに入れてください。
 SwitchをRCMモードにして、TegraRCMGUIを使用し、Hekateペイロードを送信します。
 
 ## 同梱物
