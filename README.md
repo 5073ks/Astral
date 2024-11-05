@@ -7,7 +7,8 @@ The new All-in-One CFW package for the Nintendo Switch.
 [DeepSea](https://github.com/Team-Neptune/DeepSea)を個人的に使いやすいように、いくつかの改良を重ねたオールインワンCFWパッケージです。<br />
 基本的には、[Atmosphère](https://github.com/atmosphere-nx/atmosphere/releases)を使用することを推奨します。
 
-オンラインでも安全に使用可能にするために、DeepSeaからいくつかの機能を削除しています。
+オンラインでも安全に使用可能にするために、DeepSeaからいくつかの機能を削除しています。<br />
+例えば、オーバークロックは、故障の可能性があるため削除しています。
 
 **何か問題があればただちに削除します。**
 
