@@ -1,2 +1,4 @@
 # Astral
-The best new All-in-One CFW package for the Nintendo Switch.
+Nintendo Switch用の最高の新しいオールインワンCFWパッケージ
+
+##Features
