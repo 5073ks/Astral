@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/dfa221a9-7162-4981-bb81-1721bc9292cb)
+![banner](https://github.com/user-attachments/assets/94201b8d-f1ac-4a37-82e2-af34047e6779)
 
 Nintendo Switch向けの新しいオールインワンCFWパッケージ。
 
